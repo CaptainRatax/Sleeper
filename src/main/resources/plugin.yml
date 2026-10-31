@@ -4,7 +4,7 @@ description: Skip the night with a percentage or vote of players and an animatio
 author: Hraponssi
 main: sleeper.main.Main
 softdepend: [GSit, Essentials, JustAFK]
-api-version: 1.13
+api-version: '26.3'
 folia-supported: true
 commands:
   sleep:
